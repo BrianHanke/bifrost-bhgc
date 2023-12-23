@@ -1,2 +1,1 @@
-# bifrost-bhgc
-Bifrost compounds.
+Just a place to share Bifrost compounds!
